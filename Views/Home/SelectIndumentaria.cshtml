@@ -1,0 +1,57 @@
+@{
+    ViewData["Title"] = "index";
+}
+<h1>que equipo deseas elejir</h1>
+<form action = '@Url.Action("GuardarIndumentaria")'>
+   
+    <div>
+    <p>
+        Elegi un Equipo:
+        <div>
+            <select name="Equipo">
+                @foreach (string item in ViewBag.ListaEquipos)
+                {
+                    <option value="@item">
+                        @item
+                    </option>
+                }
+            </select>
+    </p>
+</div>
+@{
+    int k=1;
+    int l=1;
+    int a=1;
+
+foreach (string item in ViewBag.ListaMedias)
+{
+    <b>@k.<img style="width:8%" src="/img/medias/@item" alt="wwwroot"> </b>
+    k++;
+}
+
+ <input type="number" max= "10" min="1" step="1" placeholder="0" required name="numMedias"/>
+
+<br>
+foreach (string item in ViewBag.ListaPantalones)
+{
+    <b>@l.<img style="width:8%" src="/img/pantalones/@item" alt="wwwroot"> </b>
+    l++;
+}
+
+ <input type="number" max= "10" min="1" step="1" placeholder="0" required name="numPantalones"/>
+<br>
+foreach (string item in ViewBag.ListaRemeras)
+{
+    <b>@a.<img style="width:8%" src="/img/remeras/@item" alt="wwwroot"> </b>
+    a++;
+}
+
+ <input type="number" max= "10" min="1" step="1" placeholder="0" required name="numRemera"/>
+}
+<br>
+
+<input type="submit" value="seleccionar">
+<input type="reset" value="resetear">
+</form>
+
+

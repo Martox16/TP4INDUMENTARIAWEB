@@ -1,0 +1,124 @@
+C:\Users\47801169\Downloads\TpIndumentaria4\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\47801169\Downloads\TpIndumentaria4\bin\Debug\net6.0\appsettings.json
+C:\Users\47801169\Downloads\TpIndumentaria4\bin\Debug\net6.0\TpIndumentaria4.staticwebassets.runtime.json
+C:\Users\47801169\Downloads\TpIndumentaria4\bin\Debug\net6.0\TpIndumentaria4.exe
+C:\Users\47801169\Downloads\TpIndumentaria4\bin\Debug\net6.0\TpIndumentaria4.deps.json
+C:\Users\47801169\Downloads\TpIndumentaria4\bin\Debug\net6.0\TpIndumentaria4.runtimeconfig.json
+C:\Users\47801169\Downloads\TpIndumentaria4\bin\Debug\net6.0\TpIndumentaria4.dll
+C:\Users\47801169\Downloads\TpIndumentaria4\bin\Debug\net6.0\TpIndumentaria4.pdb
+C:\Users\47801169\Downloads\TpIndumentaria4\obj\Debug\net6.0\TpIndumentaria4.csproj.AssemblyReference.cache
+C:\Users\47801169\Downloads\TpIndumentaria4\obj\Debug\net6.0\TpIndumentaria4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47801169\Downloads\TpIndumentaria4\obj\Debug\net6.0\TpIndumentaria4.AssemblyInfoInputs.cache
+C:\Users\47801169\Downloads\TpIndumentaria4\obj\Debug\net6.0\TpIndumentaria4.AssemblyInfo.cs
+C:\Users\47801169\Downloads\TpIndumentaria4\obj\Debug\net6.0\TpIndumentaria4.csproj.CoreCompileInputs.cache
+C:\Users\47801169\Downloads\TpIndumentaria4\obj\Debug\net6.0\TpIndumentaria4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\47801169\Downloads\TpIndumentaria4\obj\Debug\net6.0\TpIndumentaria4.RazorAssemblyInfo.cache
+C:\Users\47801169\Downloads\TpIndumentaria4\obj\Debug\net6.0\TpIndumentaria4.RazorAssemblyInfo.cs
+C:\Users\47801169\Downloads\TpIndumentaria4\obj\Debug\net6.0\staticwebassets\msbuild.TpIndumentaria4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\47801169\Downloads\TpIndumentaria4\obj\Debug\net6.0\staticwebassets\msbuild.build.TpIndumentaria4.props
+C:\Users\47801169\Downloads\TpIndumentaria4\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TpIndumentaria4.props
+C:\Users\47801169\Downloads\TpIndumentaria4\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TpIndumentaria4.props
+C:\Users\47801169\Downloads\TpIndumentaria4\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\47801169\Downloads\TpIndumentaria4\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\47801169\Downloads\TpIndumentaria4\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\47801169\Downloads\TpIndumentaria4\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\47801169\Downloads\TpIndumentaria4\obj\Debug\net6.0\scopedcss\bundle\TpIndumentaria4.styles.css
+C:\Users\47801169\Downloads\TpIndumentaria4\obj\Debug\net6.0\scopedcss\projectbundle\TpIndumentaria4.bundle.scp.css
+C:\Users\47801169\Downloads\TpIndumentaria4\obj\Debug\net6.0\TpIndumentaria4.dll
+C:\Users\47801169\Downloads\TpIndumentaria4\obj\Debug\net6.0\refint\TpIndumentaria4.dll
+C:\Users\47801169\Downloads\TpIndumentaria4\obj\Debug\net6.0\TpIndumentaria4.pdb
+C:\Users\47801169\Downloads\TpIndumentaria4\obj\Debug\net6.0\TpIndumentaria4.genruntimeconfig.cache
+C:\Users\47801169\Downloads\TpIndumentaria4\obj\Debug\net6.0\ref\TpIndumentaria4.dll
+Z:\TpIndumentaria4\bin\Debug\net6.0\appsettings.Development.json
+Z:\TpIndumentaria4\bin\Debug\net6.0\appsettings.json
+Z:\TpIndumentaria4\bin\Debug\net6.0\TpIndumentaria4.staticwebassets.runtime.json
+Z:\TpIndumentaria4\bin\Debug\net6.0\TpIndumentaria4.exe
+Z:\TpIndumentaria4\bin\Debug\net6.0\TpIndumentaria4.deps.json
+Z:\TpIndumentaria4\bin\Debug\net6.0\TpIndumentaria4.runtimeconfig.json
+Z:\TpIndumentaria4\bin\Debug\net6.0\TpIndumentaria4.dll
+Z:\TpIndumentaria4\bin\Debug\net6.0\TpIndumentaria4.pdb
+Z:\TpIndumentaria4\obj\Debug\net6.0\TpIndumentaria4.csproj.AssemblyReference.cache
+Z:\TpIndumentaria4\obj\Debug\net6.0\TpIndumentaria4.GeneratedMSBuildEditorConfig.editorconfig
+Z:\TpIndumentaria4\obj\Debug\net6.0\TpIndumentaria4.AssemblyInfoInputs.cache
+Z:\TpIndumentaria4\obj\Debug\net6.0\TpIndumentaria4.AssemblyInfo.cs
+Z:\TpIndumentaria4\obj\Debug\net6.0\TpIndumentaria4.csproj.CoreCompileInputs.cache
+Z:\TpIndumentaria4\obj\Debug\net6.0\TpIndumentaria4.MvcApplicationPartsAssemblyInfo.cache
+Z:\TpIndumentaria4\obj\Debug\net6.0\TpIndumentaria4.RazorAssemblyInfo.cache
+Z:\TpIndumentaria4\obj\Debug\net6.0\TpIndumentaria4.RazorAssemblyInfo.cs
+Z:\TpIndumentaria4\obj\Debug\net6.0\staticwebassets\msbuild.TpIndumentaria4.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\TpIndumentaria4\obj\Debug\net6.0\staticwebassets\msbuild.build.TpIndumentaria4.props
+Z:\TpIndumentaria4\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TpIndumentaria4.props
+Z:\TpIndumentaria4\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TpIndumentaria4.props
+Z:\TpIndumentaria4\obj\Debug\net6.0\staticwebassets.pack.json
+Z:\TpIndumentaria4\obj\Debug\net6.0\staticwebassets.build.json
+Z:\TpIndumentaria4\obj\Debug\net6.0\staticwebassets.development.json
+Z:\TpIndumentaria4\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+Z:\TpIndumentaria4\obj\Debug\net6.0\scopedcss\bundle\TpIndumentaria4.styles.css
+Z:\TpIndumentaria4\obj\Debug\net6.0\scopedcss\projectbundle\TpIndumentaria4.bundle.scp.css
+Z:\TpIndumentaria4\obj\Debug\net6.0\TpIndumentaria4.dll
+Z:\TpIndumentaria4\obj\Debug\net6.0\refint\TpIndumentaria4.dll
+Z:\TpIndumentaria4\obj\Debug\net6.0\TpIndumentaria4.pdb
+Z:\TpIndumentaria4\obj\Debug\net6.0\TpIndumentaria4.genruntimeconfig.cache
+Z:\TpIndumentaria4\obj\Debug\net6.0\ref\TpIndumentaria4.dll
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\bin\Debug\net6.0\appsettings.json
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\bin\Debug\net6.0\TpIndumentaria4.staticwebassets.runtime.json
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\bin\Debug\net6.0\TpIndumentaria4.exe
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\bin\Debug\net6.0\TpIndumentaria4.deps.json
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\bin\Debug\net6.0\TpIndumentaria4.runtimeconfig.json
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\bin\Debug\net6.0\TpIndumentaria4.dll
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\bin\Debug\net6.0\TpIndumentaria4.pdb
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\TpIndumentaria4.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\TpIndumentaria4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\TpIndumentaria4.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\TpIndumentaria4.AssemblyInfo.cs
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\TpIndumentaria4.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\TpIndumentaria4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\TpIndumentaria4.RazorAssemblyInfo.cache
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\TpIndumentaria4.RazorAssemblyInfo.cs
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\staticwebassets\msbuild.TpIndumentaria4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\staticwebassets\msbuild.build.TpIndumentaria4.props
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TpIndumentaria4.props
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TpIndumentaria4.props
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\scopedcss\bundle\TpIndumentaria4.styles.css
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\scopedcss\projectbundle\TpIndumentaria4.bundle.scp.css
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\TpIndumentaria4.dll
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\refint\TpIndumentaria4.dll
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\TpIndumentaria4.pdb
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\TpIndumentaria4.genruntimeconfig.cache
+C:\Users\Martin\Desktop\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\ref\TpIndumentaria4.dll
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\bin\Debug\net6.0\appsettings.json
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\bin\Debug\net6.0\TpIndumentaria4.staticwebassets.runtime.json
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\bin\Debug\net6.0\TpIndumentaria4.exe
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\bin\Debug\net6.0\TpIndumentaria4.deps.json
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\bin\Debug\net6.0\TpIndumentaria4.runtimeconfig.json
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\bin\Debug\net6.0\TpIndumentaria4.dll
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\bin\Debug\net6.0\TpIndumentaria4.pdb
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\TpIndumentaria4.csproj.AssemblyReference.cache
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\TpIndumentaria4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\TpIndumentaria4.AssemblyInfoInputs.cache
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\TpIndumentaria4.AssemblyInfo.cs
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\TpIndumentaria4.csproj.CoreCompileInputs.cache
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\TpIndumentaria4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\TpIndumentaria4.RazorAssemblyInfo.cache
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\TpIndumentaria4.RazorAssemblyInfo.cs
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\staticwebassets\msbuild.TpIndumentaria4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\staticwebassets\msbuild.build.TpIndumentaria4.props
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TpIndumentaria4.props
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TpIndumentaria4.props
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\scopedcss\bundle\TpIndumentaria4.styles.css
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\scopedcss\projectbundle\TpIndumentaria4.bundle.scp.css
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\TpIndumentaria4.dll
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\refint\TpIndumentaria4.dll
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\TpIndumentaria4.pdb
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\TpIndumentaria4.genruntimeconfig.cache
+C:\Users\47801169\Downloads\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\obj\Debug\net6.0\ref\TpIndumentaria4.dll

@@ -1,0 +1,157 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TpIndumentaria4.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TpIndumentaria4.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\img\\medias\\Medias.Boca.png",
+      "PackagePath": "staticwebassets\\img\\medias\\Medias.Boca.png"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\img\\medias\\Medias.Inter.jpg",
+      "PackagePath": "staticwebassets\\img\\medias\\Medias.Inter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\img\\medias\\Medias.Milan.jfif",
+      "PackagePath": "staticwebassets\\img\\medias\\Medias.Milan.jfif"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\img\\medias\\Medias.Napoli.jfif",
+      "PackagePath": "staticwebassets\\img\\medias\\Medias.Napoli.jfif"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\img\\medias\\medias.ajax.jpg",
+      "PackagePath": "staticwebassets\\img\\medias\\medias.ajax.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\img\\medias\\medias.barcelona.jfif",
+      "PackagePath": "staticwebassets\\img\\medias\\medias.barcelona.jfif"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\img\\medias\\medias.chelsea.jfif",
+      "PackagePath": "staticwebassets\\img\\medias\\medias.chelsea.jfif"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\img\\medias\\medias.juventus.jfif",
+      "PackagePath": "staticwebassets\\img\\medias\\medias.juventus.jfif"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\img\\medias\\medias.liverpool.jfif",
+      "PackagePath": "staticwebassets\\img\\medias\\medias.liverpool.jfif"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\img\\medias\\medias.tottenham.jpg",
+      "PackagePath": "staticwebassets\\img\\medias\\medias.tottenham.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\img\\pantalones\\pantalon.ajax.png",
+      "PackagePath": "staticwebassets\\img\\pantalones\\pantalon.ajax.png"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\img\\pantalones\\pantalon.barcelona.png",
+      "PackagePath": "staticwebassets\\img\\pantalones\\pantalon.barcelona.png"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\img\\pantalones\\pantalon.boca.png",
+      "PackagePath": "staticwebassets\\img\\pantalones\\pantalon.boca.png"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\img\\pantalones\\pantalon.chelsea.png",
+      "PackagePath": "staticwebassets\\img\\pantalones\\pantalon.chelsea.png"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\img\\pantalones\\pantalon.inter.png",
+      "PackagePath": "staticwebassets\\img\\pantalones\\pantalon.inter.png"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\img\\pantalones\\pantalon.juventus.png",
+      "PackagePath": "staticwebassets\\img\\pantalones\\pantalon.juventus.png"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\img\\pantalones\\pantalon.liverpool.jfif",
+      "PackagePath": "staticwebassets\\img\\pantalones\\pantalon.liverpool.jfif"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\img\\pantalones\\pantalon.milan.png",
+      "PackagePath": "staticwebassets\\img\\pantalones\\pantalon.milan.png"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\img\\pantalones\\pantalon.napoli.png",
+      "PackagePath": "staticwebassets\\img\\pantalones\\pantalon.napoli.png"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\img\\pantalones\\pantalon.tottenham.png",
+      "PackagePath": "staticwebassets\\img\\pantalones\\pantalon.tottenham.png"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\img\\remeras\\remera.ajax.png",
+      "PackagePath": "staticwebassets\\img\\remeras\\remera.ajax.png"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\img\\remeras\\remera.barcelona.png",
+      "PackagePath": "staticwebassets\\img\\remeras\\remera.barcelona.png"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\img\\remeras\\remera.boca.png",
+      "PackagePath": "staticwebassets\\img\\remeras\\remera.boca.png"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\img\\remeras\\remera.chelsea.png",
+      "PackagePath": "staticwebassets\\img\\remeras\\remera.chelsea.png"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\img\\remeras\\remera.inter.jfif",
+      "PackagePath": "staticwebassets\\img\\remeras\\remera.inter.jfif"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\img\\remeras\\remera.juventus.png",
+      "PackagePath": "staticwebassets\\img\\remeras\\remera.juventus.png"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\img\\remeras\\remera.liverpool.png",
+      "PackagePath": "staticwebassets\\img\\remeras\\remera.liverpool.png"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\img\\remeras\\remera.milan.jpg",
+      "PackagePath": "staticwebassets\\img\\remeras\\remera.milan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\img\\remeras\\remera.napoli.jpg",
+      "PackagePath": "staticwebassets\\img\\remeras\\remera.napoli.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\img\\remeras\\remera.tottenham.jfif",
+      "PackagePath": "staticwebassets\\img\\remeras\\remera.tottenham.jfif"
+    },
+    {
+      "Id": "C:\\Users\\47801169\\Downloads\\TP4 INDUMENTARIA WEB-CYGIEL-MELLEBOVSCKY\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TpIndumentaria4.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TpIndumentaria4.props",
+      "PackagePath": "build\\TpIndumentaria4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TpIndumentaria4.props",
+      "PackagePath": "buildMultiTargeting\\TpIndumentaria4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TpIndumentaria4.props",
+      "PackagePath": "buildTransitive\\TpIndumentaria4.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

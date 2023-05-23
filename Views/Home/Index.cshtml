@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewData["Title"] = "Home";
+}
+<div class="titulo"><h1>Bienvenido a nuestra indumentaria</h1></div>
+<div class="link"><h1>Haga click <a href='@Url.Action("SelectIndumentaria")'>aqui </a> si quiere ir a indumentaria</h1></div>
+
+@foreach(string item in ViewBag.EquiposIndumentaria.Keys)
+{
+    <div class="seccion">
+        <h4>@item</h4>
+   <img style="width:40%" src="/img/medias/@ViewBag.EquiposIndumentaria[item].Medias" alt="wwwroot"> 
+   <img style="width:40%" src="/img/pantalones/@ViewBag.EquiposIndumentaria[item].Pantalon" alt="wwwroot">
+   <img style="width:40%" src="/img/remeras/@ViewBag.EquiposIndumentaria[item].Camiseta" alt="wwwroot">  
+    </div>
+    
+
+}
+
+
+   
